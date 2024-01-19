@@ -7,6 +7,7 @@
 
   - &#128204;<a href="https://bookinghotell.netlify.app/" >Demo</a>
   - Please login first to see all the features of the project ==> email : test@gmail.com & password : 12345
+  - Iranian users who want to see my project online must first connect to VPN 
   - 🙋‍♀️Developed by Elahe Fahmideh
   - 📆Created : january 2024
   - To run the program, first run 'npm install' command in the terminal to install all packages , then run 'npm run server' and 'npm run dev'.
