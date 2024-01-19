@@ -6,6 +6,7 @@
 ![demo](https://github.com/Ela-Fhd/Booking-hotel/blob/main/src/assets/demo/demo3.png)
 
   - &#128204;<a href="https://bookinghotell.netlify.app/" >Demo</a>
+  - Please login first to see all the features of the project ==> email : test@gmail.com & password : 12345
   - 🙋‍♀️Developed by Elahe Fahmideh
   - 📆Created : january 2024
   - &#x2714;Technologies : React js , Axios , json-server , react-router-dom , context 
