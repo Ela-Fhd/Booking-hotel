@@ -9,6 +9,7 @@
   - Please login first to see all the features of the project ==> email : test@gmail.com & password : 12345
   - 🙋‍♀️Developed by Elahe Fahmideh
   - 📆Created : january 2024
+  - To run the program, first run 'npm install' command in the terminal to install all packages , then run 'npm run server' and 'npm run dev'.
   - &#x2714;Technologies : React js , Axios , json-server , react-router-dom , context 
   - &#128231;Contact with me : <a href="https://www.linkedin.com/in/elahe-fahmideh/">LINKEDIN</a>
 
